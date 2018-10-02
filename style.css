@@ -1,1 +1,24 @@
+#gameImage {
+    display: block;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    border: solid black;
+    width: 600px;
+    height: 600px;
+    background-size: cover;
+    display: flex;
+}
+
+#piece {
+    border: solid black;
+}
+
 

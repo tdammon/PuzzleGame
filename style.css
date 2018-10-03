@@ -15,10 +15,14 @@ h3 {
     height: 600px;
     background-size: cover;
     display: flex;
+    flex-wrap: wrap;
 }
 
-#piece {
-    border: solid black;
+.piece {
+    border: 1px solid black;
+    margin: -1px -1px -1px -1px;
+    height: 25%;
+    width: 25%;
 }
 
 
